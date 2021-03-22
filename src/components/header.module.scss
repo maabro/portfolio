@@ -1,0 +1,26 @@
+.mainHeader {
+    background-color: bisque;
+    .contentHeader {
+        margin: 0 auto;
+        max-width: 750px;
+        h1 {
+            font-size: 5rem;
+            letter-spacing: -7px;
+            a {
+                text-decoration: none;
+                color: #333;
+            }
+        }
+        nav {
+            ul {
+                list-style-type: none;
+                margin: 0;
+            }
+        }
+    }
+
+}
+
+.navItems {
+    font-size: 1.5em;
+}
